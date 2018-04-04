@@ -1,0 +1,23 @@
+
+.header-logo >a > img {
+	width: 100px;
+	height: 50px;
+	border-radius: 10px;
+}
+
+/*mission vision motto styling*/
+.statements {
+	background-color: #A5A5A5;
+	color: white;
+	padding-top: 80px;
+	margin-top: -80px;
+}
+/*mission vision motto styling*/
+
+
+/*mailing list styling*/
+.mailSub {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+/*mailing list styling*/
