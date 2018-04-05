@@ -1,6 +1,6 @@
 /*navbar styling*/
 .navbar-dark {
-	background-color: #00004B;
+	background-color: #727272;
 }
 .navbar-brand > img {
 	width: 50px;
@@ -9,9 +9,15 @@
 }
 /*navbar styling*/
 
+/*bootstrap button styling*/
+
+/*bootstrap button styling*/
+
+/*carousel styling*/
 .carousel-item > img {
 	filter: brightness(40%);
 }
+/*carousel styling*/
 
 /*mission vision motto styling*/
 
@@ -31,3 +37,10 @@
 	padding-bottom: 40px;
 }
 /*mailing list styling*/
+
+/*social icons styling*/
+.fab {
+	color: #727272;
+}
+
+/*social icons styling*/
