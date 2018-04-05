@@ -2,10 +2,6 @@
 .navbar-dark {
 	background-color: #00004B;
 }
-.navbar.nav-right.navbar-collapse > ul > li > a{
-	color: white;
-}
-
 .navbar-brand > img {
 	width: 50px;
 	height: 50px;
@@ -21,6 +17,13 @@
 
 /*mission vision motto styling*/
 
+/*PAGE BANNER STYLING*/
+.contact-us {
+  background-image: url('http://drive.google.com/uc?export=view&id=1jY1MUxZWU4N1ixfD0W6E8hKgaKRUWvs6');
+  background-size: cover;
+  color: white;
+}
+/*PAGE BANNER STYLING*/
 
 /*mailing list styling*/
 .mailSub {

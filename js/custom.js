@@ -27,3 +27,7 @@ function includeHTML() {
 	}
 
 includeHTML();
+
+$document().ready(function(){
+
+});
