@@ -42,6 +42,12 @@
   color: white;
   padding-top: 140px;
 }
+.yali-jumb {
+   background-image: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url('http://drive.google.com/uc?export=view&id=0B_YpDglT_thoOUlZMTRVM1VKc0xwRGxmUk40LUIyem56dFlR');
+  background-size: cover;
+  color: white;
+  padding-top: 140px;
+}
 /*PAGE BANNER STYLING*/
 
 /*mailing list styling*/
