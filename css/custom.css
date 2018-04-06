@@ -24,8 +24,13 @@
 /*mission vision motto styling*/
 
 /*PAGE BANNER STYLING*/
-.contact-us {
-  background-image: url('http://drive.google.com/uc?export=view&id=1jY1MUxZWU4N1ixfD0W6E8hKgaKRUWvs6');
+.about-jumb {
+  background-image: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url('http://drive.google.com/uc?export=view&id=0B_YpDglT_thobHpSSndLcGNRUW9aOTlmMmlXVGY2ek9YYXB3'); 
+  background-size: cover;
+  color: white;
+}
+.contact-jumb {
+  background-image: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url('http://drive.google.com/uc?export=view&id=1jY1MUxZWU4N1ixfD0W6E8hKgaKRUWvs6');
   background-size: cover;
   color: white;
 }
